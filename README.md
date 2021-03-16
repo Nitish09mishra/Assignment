@@ -10,7 +10,8 @@ Expected Behaviour And Output-
 
 *All options other than item name can come in any order i.e. after -name you can have -price, -type option. Item type is a mandatory option. 
 *The system should provide functionality to add more than one items i.e. Once the details of first item is entered it should display a message saying: “Do you want to   enter details of any other item (y/n):” 
-*Make use of java's object-oriented capabilities for implementing this business logic *Exception handling is expected in the program 
+*Make use of java's object-oriented capabilities for implementing this business logic 
+*Exception handling is expected in the program 
 *Jdk8 should be used for development
 
 *Output- item name, item price, sales tax liability per item, final price (sales tax + item price) to the console.
